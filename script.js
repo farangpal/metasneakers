@@ -5,7 +5,7 @@ const ethereum = window.ethereum
 let accounts
 
 let price = 0.25 // Minting price
-let projectName = "Meta Sneakers" // Project name
+let projectName = "Meta Sneaker" // Project name
 
 let priceMultiplier = price;
 const input = document.querySelector(".eth_input") 
